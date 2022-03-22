@@ -1,0 +1,82 @@
+
+ .root{
+   -fx-background-color:#0080FE;
+     }
+
+ .label{
+ -fx-font-family:Arial Black;
+  -fx-text-fill:WHITE;
+  -fx-font-size:15px;
+ -fx-font-weight:bold;
+ -fx-background-color: #000080;
+ -fx-alignment:center;
+  }
+
+
+ .button{
+-fx-font-family:Arial Black;
+-fx-font-size: 16px;
+-fx-text-fill:white;
+-fx-font-size:18px;
+-fx-font-weight:bold;
+-fx-background-color:yellow;
+    }
+
+ .button:hover{
+  -fx-text-fill:white;
+
+  -fx-font-weight:bold;
+  -fx-border-width:2px;
+  -fx-border-color:white;
+   -fx-background-color:#000080;
+        }
+     .text-field{
+     -fx-text-fill:white;
+     -fx-font-weight:bold;
+     -fx-font-size: 20px;
+      -fx-alignment:center;
+   -fx-background-color:#6693f5;
+     }
+
+
+      #e1{
+     -fx-font-family:Arial Black;
+     -fx-background-color:transparent;
+         }
+
+             #e1:hover{
+
+             -fx-border-width:0px;
+             -fx-border-color:transparent;
+       -fx-background-color:#0080FE;
+                  }
+
+
+     #e11{
+  -fx-font-family:Arial Black;
+  -fx-background-color:transparent;
+     }
+
+    #e11:hover{
+
+  -fx-border-width:0px;
+    -fx-border-color:transparent;
+  -fx-background-color:#0080FE;
+   }
+  #lbNew{
+  -fx-font-family:Arial Black;
+   -fx-text-fill:#ffffff;
+   -fx-font-size:15px;
+  -fx-font-weight:bold;
+  -fx-background-color: transparent;
+  -fx-alignment:center;
+   }
+
+     #lbNew:hover{
+     -fx-font-family:Arial Black;
+      -fx-text-fill:#ffffff;
+      -fx-font-size:15px;
+     -fx-font-weight:bold;
+     -fx-background-color:#000080;
+     -fx-alignment:center;
+      }
